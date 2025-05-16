@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://curecloverblog.github.io/sitemap.xml
